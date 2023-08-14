@@ -1,4 +1,4 @@
-#Film-Finder 
+Film-Finder 
 
 Type in movie and hit search. You can save movies into a watchlist stored on local storage.
 
