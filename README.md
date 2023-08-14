@@ -1,4 +1,12 @@
-# co36049558af3c77e6e999c8f
+Film-Finder
+
+# Simple 15-digit Password Generator
+
+Simple Movie search App
+
+Netlify deployed link to site: https://64da94b0ed905f08f5094991--benevolent-entremet-b6bdca.netlify.app/
+
+![Film Finder](https://github.com/Dukeyeboah/Film-Finder/assets/117697130/ec9977ca-f853-47cd-9224-925927bf0556)
 
 Quick start:
 
@@ -6,16 +14,3 @@ Quick start:
 $ npm install
 $ npm start
 ````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
