@@ -1,6 +1,4 @@
-Film-Finder
-
-# Simple 15-digit Password Generator
+Film-Finder: type in movie and hit search. You can save movies into a watchlist stored on local storage.
 
 Simple Movie search App
 
